@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FE89508-544F-419A-A203-82ADE26BA64D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Markup</RootNamespace>
+    <AssemblyName>Markup</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewRecord.Designer.cs">
+      <DependentUpon>AddNewRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AzBioAudioTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AzBioAudioTest.Designer.cs">
+      <DependentUpon>AzBioAudioTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AzBioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AzBioForm.Designer.cs">
+      <DependentUpon>AzBioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AzbioResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AzbioResult.Designer.cs">
+      <DependentUpon>AzbioResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CNCaudioTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNCaudioTest.Designer.cs">
+      <DependentUpon>CNCaudioTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CNCform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNCform.Designer.cs">
+      <DependentUpon>CNCform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CNCresult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNCresult.Designer.cs">
+      <DependentUpon>CNCresult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTest.Designer.cs">
+      <DependentUpon>NewTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlotSingleResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlotSingleResult.Designer.cs">
+      <DependentUpon>PlotSingleResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultSearchMRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultSearchMRN.Designer.cs">
+      <DependentUpon>ResultSearchMRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMRN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchMRN.Designer.cs">
+      <DependentUpon>SearchMRN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResultDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchResultDetail.Designer.cs">
+      <DependentUpon>SearchResultDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResultDetailAzBio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchResultDetailAzBio.Designer.cs">
+      <DependentUpon>SearchResultDetailAzBio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResultDetailCNC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchResultDetailCNC.Designer.cs">
+      <DependentUpon>SearchResultDetailCNC.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewRecord.resx">
+      <DependentUpon>AddNewRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AzBioAudioTest.resx">
+      <DependentUpon>AzBioAudioTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AzBioForm.resx">
+      <DependentUpon>AzBioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AzbioResult.resx">
+      <DependentUpon>AzbioResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNCaudioTest.resx">
+      <DependentUpon>CNCaudioTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNCform.resx">
+      <DependentUpon>CNCform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNCresult.resx">
+      <DependentUpon>CNCresult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTest.resx">
+      <DependentUpon>NewTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlotSingleResult.resx">
+      <DependentUpon>PlotSingleResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ResultSearchMRN.resx">
+      <DependentUpon>ResultSearchMRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchMRN.resx">
+      <DependentUpon>SearchMRN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchResultDetail.resx">
+      <DependentUpon>SearchResultDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchResultDetailAzBio.resx">
+      <DependentUpon>SearchResultDetailAzBio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchResultDetailCNC.resx">
+      <DependentUpon>SearchResultDetailCNC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
