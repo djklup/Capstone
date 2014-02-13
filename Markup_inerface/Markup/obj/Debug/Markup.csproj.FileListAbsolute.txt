@@ -21,3 +21,26 @@ C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Ma
 C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchResultDetailCNC.resources
 C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchResultDetailAzBio.resources
 C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.PlotSingleResult.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\bin\Debug\Markup.exe.config
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.exe
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.pdb
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\bin\Debug\Markup.exe
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\bin\Debug\Markup.pdb
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.AddNewRecord.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.AzBioAudioTest.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.AzBioForm.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.AzbioResult.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.CNCaudioTest.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.CNCform.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.CNCresult.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.Form1.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.NewTest.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.PlotSingleResult.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.Properties.Resources.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.ResultSearchMRN.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.SearchMRN.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.SearchResultDetail.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.SearchResultDetailAzBio.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.SearchResultDetailCNC.resources
+C:\Users\Chris\Documents\GitHub\Capstone\Markup_inerface\Markup\obj\Debug\Markup.csproj.GenerateResource.Cache
