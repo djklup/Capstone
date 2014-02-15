@@ -1,0 +1,93 @@
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\bin\Debug\Markup.exe.config
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\bin\Debug\Markup.exe
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\bin\Debug\Markup.pdb
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.csprojResolveAssemblyReference.cache
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.Form1.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.Properties.Resources.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.csproj.GenerateResource.Cache
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.exe
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.pdb
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.NewTest.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.AzBioForm.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.CNCform.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.CNCaudioTest.resources
+c:\users\han le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.CNCresult.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.AzBioAudioTest.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.AzbioResult.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.AddNewRecord.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.ResultSearchMRN.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchMRN.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchResultDetail.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchResultDetailCNC.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.SearchResultDetailAzBio.resources
+C:\Users\Han Le\documents\visual studio 2012\Projects\Markup\Markup\obj\Debug\Markup.PlotSingleResult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.exe.config
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.exe
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.pdb
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.exe
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.pdb
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.csprojResolveAssemblyReference.cache
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddNewRecord.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzBioAudioTest.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzBioForm.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzbioResult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCaudioTest.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCform.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCresult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Form1.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.PlotSingleResult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Properties.Resources.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchMRN.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetail.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetailAzBio.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetailCNC.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.csproj.GenerateResource.Cache
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.DeleteTester.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Tester.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.exe.config
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.exe
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.pdb
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AdminLevel.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddNewPatient.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ExistingPatientNewTest.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ChangePassword.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SelectExistingPatient.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ExportResult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchPatient.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResult.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchTester.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchRangeDate.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.exe
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\bin\Debug\Markup.pdb
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.csprojResolveAssemblyReference.cache
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddNewRecord.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AdminLevel.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzBioAudioTest.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzBioForm.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AzbioResult.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCaudioTest.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCform.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CNCresult.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.DeleteTester.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ExistingPatientNewTest.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ExportResult.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Form1.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddNewPatient.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.PlotSingleResult.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Properties.Resources.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchRangeDate.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResult.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchMRN.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchPatient.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetail.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetailAzBio.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchResultDetailCNC.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SearchTester.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.SelectExistingPatient.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.Tester.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.ChangePassword.resources
+C:\Users\Ted\Dropbox\Soi's Projs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.csproj.GenerateResource.Cache
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.CreateNewGroup.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddRecordDetailAzBio.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\obj\Debug\Markup.AddRecordDetailCNC.resources
+C:\Users\Han Le\Dropbox\Winter2014\SoiProjs\Capstone\Han\C#\Markup\Markup\bin\Debug\DataBase.mdf
