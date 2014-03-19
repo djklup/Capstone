@@ -1,0 +1,7 @@
+how to use postgresql: https://www.youtube.com/watch?v=1wvDVBjNDys&list=WL0377A0F721BBB588
+
+Connect Postgresql to Visual Studio: 
+	https://www.youtube.com/watch?v=io9q7w9dEBE
+	https://www.youtube.com/watch?v=jsMglb47Bss
+	
+	
